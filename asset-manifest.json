@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "https://eioluseyi.github.io/csb-ib6xfn/static/css/main.8565f83d.chunk.css",
+    "main.js": "https://eioluseyi.github.io/csb-ib6xfn/static/js/main.b3275b79.chunk.js",
+    "main.js.map": "https://eioluseyi.github.io/csb-ib6xfn/static/js/main.b3275b79.chunk.js.map",
+    "runtime-main.js": "https://eioluseyi.github.io/csb-ib6xfn/static/js/runtime-main.a1b5edfa.js",
+    "runtime-main.js.map": "https://eioluseyi.github.io/csb-ib6xfn/static/js/runtime-main.a1b5edfa.js.map",
+    "static/css/2.679831fc.chunk.css": "https://eioluseyi.github.io/csb-ib6xfn/static/css/2.679831fc.chunk.css",
+    "static/js/2.b0924234.chunk.js": "https://eioluseyi.github.io/csb-ib6xfn/static/js/2.b0924234.chunk.js",
+    "static/js/2.b0924234.chunk.js.map": "https://eioluseyi.github.io/csb-ib6xfn/static/js/2.b0924234.chunk.js.map",
+    "index.html": "https://eioluseyi.github.io/csb-ib6xfn/index.html",
+    "static/css/2.679831fc.chunk.css.map": "https://eioluseyi.github.io/csb-ib6xfn/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.8565f83d.chunk.css.map": "https://eioluseyi.github.io/csb-ib6xfn/static/css/main.8565f83d.chunk.css.map",
+    "static/js/2.b0924234.chunk.js.LICENSE.txt": "https://eioluseyi.github.io/csb-ib6xfn/static/js/2.b0924234.chunk.js.LICENSE.txt",
+    "static/media/appstore-download.7219b764.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/appstore-download.7219b764.svg",
+    "static/media/appstore-download.9f28ae25.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/appstore-download.9f28ae25.svg",
+    "static/media/collect.cdea6bfe.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/collect.cdea6bfe.png",
+    "static/media/crown.ac24af28.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/crown.ac24af28.svg",
+    "static/media/earn.98835f51.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/earn.98835f51.png",
+    "static/media/facebook-icon.16baa5c9.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/facebook-icon.16baa5c9.svg",
+    "static/media/hero-bg.5d43adf4.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/hero-bg.5d43adf4.png",
+    "static/media/instagram-icon.a311a239.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/instagram-icon.a311a239.svg",
+    "static/media/logo.6de945a0.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/logo.6de945a0.svg",
+    "static/media/logo.dd96409e.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/logo.dd96409e.svg",
+    "static/media/phone-bottom1-success.b70fdead.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/phone-bottom1-success.b70fdead.svg",
+    "static/media/phone-bottom1.32a40acd.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/phone-bottom1.32a40acd.png",
+    "static/media/phone-bottom2.61aa001f.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/phone-bottom2.61aa001f.png",
+    "static/media/phone-top1.51db9afe.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/phone-top1.51db9afe.png",
+    "static/media/phone-top2.4becdb2c.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/phone-top2.4becdb2c.png",
+    "static/media/phones-top.5f59978c.png": "https://eioluseyi.github.io/csb-ib6xfn/static/media/phones-top.5f59978c.png",
+    "static/media/swash-arrow.410b5e59.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/swash-arrow.410b5e59.svg",
+    "static/media/twitter-icon.9821ea84.svg": "https://eioluseyi.github.io/csb-ib6xfn/static/media/twitter-icon.9821ea84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b5edfa.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.b0924234.chunk.js",
+    "static/css/main.8565f83d.chunk.css",
+    "static/js/main.b3275b79.chunk.js"
+  ]
+}
